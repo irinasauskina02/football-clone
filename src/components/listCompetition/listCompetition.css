@@ -1,0 +1,25 @@
+.card {margin:  10px;}
+.table-responsive {margin: 2em 0;}
+.table tr:nth-child(2n) {
+    background-color: aliceblue;
+}
+h2 {
+    padding-top: 1em;
+}
+
+.search-panel {
+    margin: 1rem 0;
+    display: inline-block;
+    
+    
+  }
+  
+   .search-input {
+    width: auto;
+    min-width: 300px;
+    flex-grow: 1;
+    margin-right: 3px;
+    border-radius: 5px;
+    border: 2px solid #c1c1c1;
+  }
+  
